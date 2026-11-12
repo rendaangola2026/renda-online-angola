@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Renda Online Angola</title>
+<style>
+body {
+  font-family: Arial, sans-serif;
+  background: #f2f5f8;
+  text-align: center;
+  margin: 0;
+  padding: 25px;
+}
+header {
+  background: #087443;
+  color: white;
+  padding: 30px;
+  border-radius: 12px;
+}
+main {
+  background: white;
+  padding: 25px;
+  margin-top: 20px;
+  border-radius: 12px;
+}
+</style>
+</head>
+<body>
+<header>
+<h1>Renda Online Angola</h1>
+<p>Aprende, desenvolve competências e descobre oportunidades.</p>
+</header>
+<main>
+<h2>Bem-vindo à nossa plataforma!</h2>
+<p>Descobre oportunidades de aprendizagem e trabalho online.</p>
+<p>Começa hoje a desenvolver as tuas competências digitais.</p>
+</main>
+</body>
+</html>
